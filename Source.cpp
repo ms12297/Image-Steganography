@@ -1,7 +1,4 @@
 /*---------------------------------------------------------------------------------------*/
-/* Name: Muhammad Zaeem Shahzad, Student ID: ms12297 */
-/* Date: November 14, 2020 */
-/* Program: assignment3.cpp */
 /* Description: Image Steganography. The program decodes and displays hidden messages in 
 a bitmap image. It also encodes hidden messages into a bitmap image of the user's choice*/
 /*---------------------------------------------------------------------------------------*/
